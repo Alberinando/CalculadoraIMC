@@ -36,7 +36,6 @@ export default function Form(props) {
     }
 
     function validationImc() {
-        console.log(imcList)
         if (weight != null && height != null) {
             imcCalculator()
             setHeight(null)
