@@ -53,7 +53,11 @@ const styles = StyleSheet.create({
         marginBottom: 10
     },
     shared: {},
-    sharedText:{}
+    sharedText: {},
+    exhibitionResultImc: {
+        width: "100%",
+        height:"50%"
+    }
 });
 
 export default styles

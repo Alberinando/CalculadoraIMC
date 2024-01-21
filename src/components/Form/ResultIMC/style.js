@@ -32,7 +32,8 @@ const styles = StyleSheet.create({
         backgroundColor: "#1877f2",
         borderRadius: 50,
         paddingBottom: 5,
-        paddingTop: 5
+        paddingTop: 5,
+        alignItems: "center"
     },
     sharedText: {
         color: "#ffffff",
