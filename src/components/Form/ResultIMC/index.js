@@ -8,7 +8,6 @@ export default function ResultIMC(props) {
         const result = await Share.share({
             message: "Meu imc hoje é: " + props.resultIMC,
         });
-        return result
     }
     return (
         <View styles={styles.contextIMC}>

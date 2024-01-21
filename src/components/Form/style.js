@@ -52,11 +52,23 @@ const styles = StyleSheet.create({
         alignItems: "center",
         marginBottom: 10
     },
-    shared: {},
-    sharedText: {},
     exhibitionResultImc: {
         width: "100%",
-        height:"50%"
+        height:"50%",
+    },
+    listIMCs: {
+        marginTop:-10
+    },
+    resultImcItem: {
+        fontSize: 26,
+        color: "red",
+        height: 50,
+        width: "100%",
+        paddingRight:20
+    },
+    textResultItemList: {
+        fontSize: 16,
+        color:"red"
     }
 });
 
