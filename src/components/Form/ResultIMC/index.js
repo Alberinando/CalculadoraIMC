@@ -10,7 +10,7 @@ export default function ResultIMC(props) {
         });
     }
     return (
-        <View styles={styles.contextIMC}>
+        <View style={styles.contextIMC}>
             <View style={styles.boxSharebutton}>
                 <Text style={styles.information}>{props.messageResultIMC}</Text>
                 <Text style={styles.numberIMC}>{props.resultIMC}</Text>
