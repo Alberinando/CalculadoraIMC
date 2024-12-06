@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "Calculadora de IMC",
-    "slug": "app",
-    "version": "1.0.0",
+    "slug": "calculadoraimc",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -29,8 +29,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "a80f9890-7f19-439f-b166-c918eac2b06b"
+        "projectId": "664ab0f8-55e4-44e3-8067-ae0b359e0ba7"
       }
-    }
+    },
+    "owner": "alberinando"
   }
 }
